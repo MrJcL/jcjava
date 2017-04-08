@@ -1,0 +1,10 @@
+/application.xml
+/com/
+/ehcache.xml
+/hibernate.cfg.xml
+/jdbc.properties
+/log4j.properties
+/log4j2.xml
+/message_en_US.properties
+/message_zh_CN.properties
+/struts.xml
